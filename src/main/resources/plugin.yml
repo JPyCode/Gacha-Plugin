@@ -1,0 +1,11 @@
+name: Gacha
+version: '1.0-SNAPSHOT'
+main: com.jpycode.gacha.Gacha
+api-version: '1.21'
+authors: [ JPyCode ]
+description: A gacha system for the Solo Leveling server.
+website: www.github.com/JPyCode
+commands:
+  gacha:
+    description: Open a gacha box.
+    usage: /gacha
